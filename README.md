@@ -8,7 +8,7 @@ Anonymous
 
 ---
 
-The paper is currently under review, and we plan to release the full code depending on the results of the peer review.
+code coming soon...
 
 ## 📰 CODE RELEASE
 
